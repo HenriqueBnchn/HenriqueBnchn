@@ -28,8 +28,8 @@ I am a student of FrontEnd development <img src="https://media.giphy.com/media/W
 - :zap: In my free time, Im working on my personal portifolio.
 
 - :mailbox: How to reach me:  <a href="https://www.linkedin.com/in/henrique-bianchini-moreno-09032001/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:henriqueoze@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"/> </a>
 
 ---
 
