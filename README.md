@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -9,7 +7,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a student of FrontEnd development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Brazil.
+I am a student of FrontEnd development from Brazil.
 
 
 - :telescope: I’m looking for my first oportunity to work with software development.
