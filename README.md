@@ -7,14 +7,14 @@
 ---
 
 ### :man_technologist: About Me :
-I am a student of FrontEnd development from Brazil.
+I am a Junior Developer focusing on Frontend, from Brazil. Currently working as a network technician at SpeedTravel Telecom.
 
 
 - :telescope: I’m looking for my first oportunity to work with software development.
 
-- :seedling:  Exploring Javascript.
+- :seedling:  Exploring Javascript. In my free time, Im working on my personal portifolio.
 
-- :zap: In my free time, Im working on my personal portifolio.
+- :zap: I love music! I play guitar and sometimes some crazy people pay for me sing in parties
 
 - :mailbox: How to reach me:  <a href="https://www.linkedin.com/in/henrique-bianchini-moreno-09032001/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
