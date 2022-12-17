@@ -7,7 +7,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Junior Developer focusing on Frontend, from Brazil. Currently working as a network technician at SpeedTravel Telecom.
+I’m a brazilian Junior Developer focusing on FullStack. Currently working as a network technician at SpeedTravel Telecom.
 
 
 - :telescope: I’m looking for my first oportunity to work with software development.
