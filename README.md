@@ -7,7 +7,7 @@
 ---
 
 ### :man_technologist: About Me :
-I’m a brazilian Junior Developer focusing on FullStack. Currently working as a network technician at SpeedTravel Telecom.
+I’m a brazilian Junior Developer focusing on FullStack. Currently working as a NOC Analyst at 2Com Consulting.
 
 
 - :telescope: I’m looking for my first oportunity to work with software development.
